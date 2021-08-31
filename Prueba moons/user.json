@@ -1,0 +1,20 @@
+{
+    "name": "david",
+    "lastname": "aguayo",
+    "email": "mario.delarosa20@mail.com",
+    "password": "password1234",
+    "day": "29",
+    "month": "December",
+    "year": "1989",
+    "company": "moons ortondoncia",
+    "address": "10880 Malibu Point, 90265, Malibú, California", 
+    "address2": "Colima 220, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX",
+    "city": "CDMX",
+    "state": "Nevada",
+    "postcode": "55060",
+    "country": "United States",
+    "information": "frente al oxxo",
+    "homephone": "5588996633",
+    "mobiphone": "5522114477", 
+    "alias": "direccion empresa"
+}
